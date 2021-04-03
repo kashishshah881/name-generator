@@ -16,7 +16,7 @@ package main
 
 import (
   "fmt"
-  "github.com/kashishshah881/sillyname-go"
+  "github.com/kashishshah881/name-generator"
 )
 
 func main() {
